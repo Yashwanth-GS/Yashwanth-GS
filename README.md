@@ -1,5 +1,5 @@
 <img src="https://w0.peakpx.com/wallpaper/416/75/HD-wallpaper-crm-best-practices-how-to-improve-crm-data-quality-business-analysis.jpg" width="1040" height="400" allow="autoplay">
-<h1 align="center">Hi 👋, I'm Yashwanth GS</h1>
+<h1 align="center">Hi 👋, I'm Yashwanth G S</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
