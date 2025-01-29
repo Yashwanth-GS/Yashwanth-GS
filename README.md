@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/file/d/1aEdjad43PTgUCnE88uB1CFfnmPUa7JD2/view?usp=drive_link" width="840" height="200" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Yashwanth GS</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
