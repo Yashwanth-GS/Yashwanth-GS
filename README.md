@@ -38,7 +38,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40"height="40"/>&nbsp;
      <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" alt="Windows" width="40"height="40"/>&nbsp;
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwanth-gs&show_icons=true&locale=en&layout=compact" alt="yashwanth-gs" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanth-gs&show_icons=true&locale=en" alt="yashwanth-gs" /></p>
 
