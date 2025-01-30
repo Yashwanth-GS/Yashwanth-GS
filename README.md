@@ -18,10 +18,10 @@
 **Skills**:
 - :bar_chart: Data Analysis
 - :chart_with_upwards_trend: Data Visualization and Modeling
-- :computer: SQL - MS SQL Server
+- :computer: SQL - MS SQL Server, MySQL
 - :chart_with_downwards_trend: Power BI - DAX, Power Query
 - :desktop_computer: Python
-- :chart: Excel
+- :chart: Advanced Excel
 ---
 
 **:hammer_and_wrench: Languages and Tools :**
