@@ -1,4 +1,4 @@
-<img src="https://w0.peakpx.com/wallpaper/416/75/HD-wallpaper-crm-best-practices-how-to-improve-crm-data-quality-business-analysis.jpg" width="1040" height="400" allow="autoplay">
+<img src="https://github.com/Yashwanth-GS/Yashwanth-GS/blob/ac5f70df873d53baf8b39fd1f9aaefd3bef3e493/Dark%20Teal%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png" width="940" height="300" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Yashwanth G S</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
